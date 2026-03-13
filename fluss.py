@@ -3,8 +3,8 @@ from aiogram import Bot, Dispatcher, types, F
 from aiogram.filters import CommandStart
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-BOT_TOKEN = "BOT_TOKENINGIZ"
-GROUP_ID = -1001234567890  # murojaatlar tushadigan guruh ID
+BOT_TOKEN = "8751707134:AAFoJo0a8swieJWbRQcos3vB7bOA4r9BkM0"
+GROUP_ID = -1003219123503  # murojaatlar tushadigan guruh ID
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
