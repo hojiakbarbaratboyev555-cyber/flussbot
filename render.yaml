@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: flussbot
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python fluss.py"
+    plan: free
